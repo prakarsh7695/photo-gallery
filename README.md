@@ -3,7 +3,7 @@
   <a href="" target="_blank">timeless._tokens</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/site-main.png" />
+  <img alt="Demo" src="./Images/ss.jpg" />
 </div>
 
 <br/>
