@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
+  Timeless Tokens Web App<br/>
+  <a href="" target="_blank">timeless._tokens</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -20,25 +20,26 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/prakarsh7695/photo-gallery/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/prakarsh7695/photogallery/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own.  Thanks!
 
 ## Built With
 
-My personal portfolio <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+
 
 This project was built using these technologies.
 
+- npm
+- HTML
+- Bootstrap 5
 - React.js
-- Node.js
-- Express.js
-- CSS3
+- CSS 3
 - VsCode
 - Vercel
 
