@@ -1,3 +1,6 @@
+![prakarsh7695](https://socialify.git.ci/prakarsh7695/photo-gallery/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
 <h2 align="center">
   Timeless Tokens Web App<br/>
   <a href="" target="_blank">timeless._tokens</a>
@@ -12,6 +15,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
 
